@@ -133,7 +133,7 @@ const AddPizzaForm = (props) => {
     <>
       <script
         type="text/javascript"
-        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyANEvjSpkP19JKavVsrudgygDu1WJku8w0&libraries=places"
+        src="https://maps.googleapis.com/maps/api/js?key=YOUR_KEY_HERE&libraries=places"
       />
       <div className="container max-w border border-slate-300 my-4 rounded-xl shadow-lg hover:outline-none hover:shadow-outline">
         <div className="mx-3 my-2">
@@ -163,7 +163,7 @@ const AddPizzaForm = (props) => {
               </label>
               <div className="my-2">
                 <GooglePlacesAutocomplete
-                  apiKey="AIzaSyANEvjSpkP19JKavVsrudgygDu1WJku8w0"
+                  apiKey="PUT YOUR API KEY HERE"
                   apiOptions={{ language: 'se', region: 'se' }}
                   selectProps={{
                     location,
