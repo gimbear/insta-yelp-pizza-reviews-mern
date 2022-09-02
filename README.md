@@ -10,7 +10,7 @@ A MERN-stack instagram-yelp looking website with support for creating a user and
 
 ## Show-case
 
-![Showcase](https://www.dropbox.com/s/hbdc4bd4y71hz52/insta-yelp-mern.gif?dl=0)
+![Showcase](https://github.com/gimbear/insta-yelp-pizza-reviews-mern/blob/main/demo/demo.gif)
 
 ## Code-demo
 
