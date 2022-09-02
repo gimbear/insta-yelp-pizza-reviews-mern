@@ -10,7 +10,7 @@ A MERN-stack instagram-yelp looking website with support for creating a user and
 
 ## Show-case
 
-[![Showcase](http://img.youtube.com/vi/k9D0jqyKKhE/0.jpg)](https://www.youtube.com/watch?v=k9D0jqyKKhE)
+![Showcase](https://www.dropbox.com/s/hbdc4bd4y71hz52/insta-yelp-mern.gif?dl=0)
 
 ## Code-demo
 
